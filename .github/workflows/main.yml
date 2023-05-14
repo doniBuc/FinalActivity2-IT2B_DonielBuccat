@@ -14,4 +14,4 @@ jobs:
           server: ftp.epizy.com
           username: epiz_34206360
           password: A51S6mT7UBKdFqT
-          server-dir: /htdocs
+          server-dir: /htdocs/
