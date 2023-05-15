@@ -5,9 +5,9 @@ use App\Http\Controllers\AuthController;
 use App\Http\Controllers\ProductController;
 
 Route::get('/', function () {
-     return view('welcome');
-    
+     return view('welcome');   
 });
+
 Route::get('/', function () {
     return redirect()->route('login');
 });
