@@ -17,7 +17,7 @@ jobs:
       - name: Config Clearing
         run: php artisan config:clear
         
-      - name: Config Clearing
+      - name: Cache Clearing
         run: php artisan cache:clear
 
       - name: Generate key
